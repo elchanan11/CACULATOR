@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MY CACULATOR</string>
+    <string name="test_text">1234567</string>
+    <string name="_7">7</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_6">6</string>
+    <string name="_multiply">*</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="minus">-</string>
+    <string name="_0">0</string>
+    <string name="clr">CLR</string>
+    <string name="plus">+</string>
+    <string name="even">=</string>
+    <string name="setTeaxt">0</string>
+    <string name="dot">.</string>
+    <string name="ac">AC</string>
+</resources>
